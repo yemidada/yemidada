@@ -3,6 +3,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="1000" width="1500">
 <br>:sunglasses: I’m open to new job opportunities.
 <br>:sunglasses: I’m looking for students to collaborate and study together.<br>💬 Ask me anything let's do something and play with some code.<br>:video_game: Fun fact | I love gaming.
+<br/> 📫 How to reach me: yemidada@gmail.com
+
 # 💫 About Me:
 - 🌱 I’m currently learning **Full Stack Web Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/yemidada?tab=repositories](https://github.com/yemidada?tab=repositories)<br><br>- 📫 How to reach me **yemidada@gmail.com**<br><br>- ⚡ Fun fact **I love gaming**
 
