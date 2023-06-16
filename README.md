@@ -2,14 +2,13 @@
 <h3 align="center">A passionate software engineer from Lagos, Nigeria</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="1000" width="1500">
 
-<br>:sunglasses: I’m looking for students to collaborate and study together.
-<br>💬 Ask me anything let's do something and play with some code.<br>:video_game: Fun fact | I love gaming.
-<br/> 📫 How to reach me: yemidada@gmail.com
-<br/> 👯 I’m looking to collaborate on <b>Web development projects</b>
-
-
 # 💫 About Me:
-- 🌱 I’m currently learning **Full Stack Web Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/yemidada?tab=repositories](https://github.com/yemidada?tab=repositories)<br><br>- 📫 How to reach me **yemidada@gmail.com**<br><br>- ⚡ Fun fact **I love gaming**
+- 🌱 I’m currently learning **Full Stack Web Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/yemidada?tab=repositories](https://github.com/yemidada?tab=repositories)<br>
+
+<br>- 📫 How to reach me **yemidada@gmail.com**<br>
+<br>- ⚡ Fun fact **I love gaming
+<br>💬 Ask me about HTML, CSS, JavaScript, and Reac
+**
 
 
 ## 🌐 Socials:
