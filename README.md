@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Full Stack Web Development**
-<br>- 👨‍💻 All of my projects are available at [https://github.com/yemidada?tab=repositories](https://github.com/yemidada?tab=repositories)<br>
-<br>- 📫 How to reach me **yemidada@gmail.com**<br>
+<br>- 👨‍💻 All of my projects are available at [https://github.com/yemidada?tab=repositories](https://github.com/yemidada?tab=repositories)
+<br>- 📫 How to reach me **yemidada@gmail.com**
 <br>- ⚡ Fun fact **I love gaming**
 <br>💬 Ask me about **HTML, CSS, JavaScript, and React**
 
